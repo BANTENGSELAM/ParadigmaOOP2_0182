@@ -11,5 +11,9 @@ class AbstraksiKlas {
         x = a;
         y = b;
     }
+    //menampilkan nilai
+    void display(){
+        cout << "x = " << x << endl;
+    }
 
 };
