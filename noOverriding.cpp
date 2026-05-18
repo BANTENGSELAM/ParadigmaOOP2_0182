@@ -1,4 +1,9 @@
 #include <iostream>
 using namespace std;
 
-class baseClass {}
+class baseClass {
+    public : 
+        virtual void perkenalan() final{
+            
+        }
+};
