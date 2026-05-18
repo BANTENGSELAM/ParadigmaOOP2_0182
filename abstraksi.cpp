@@ -23,4 +23,4 @@ class AbstraksiKlas {
     ak.display();
 
     return 0;
- }
+}
